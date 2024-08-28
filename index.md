@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Sean's Page
 
-[GAMES](https://itch.io/search?q=awesomethoth)
+[GAMES]([https://itch.io/search?q=awesomethoth](https://awesomethoth.itch.io/))
 
 ### Markdown
 
